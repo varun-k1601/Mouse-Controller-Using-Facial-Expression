@@ -1,0 +1,9 @@
+to run project
+----------------------
+
+open anaconda prompt from windows search and type the following commands
+
+1)cd S:\Project\Eyeball Cursor Moment\Human computer interaction based eye controlled mouse
+2)S:
+3)conda activate project
+4)python mouse-cursor-control.py
